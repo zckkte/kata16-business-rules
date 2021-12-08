@@ -1,0 +1,818 @@
+[0m2021.12.07 22:25:24 INFO  Started: Metals version 0.10.9 in workspace '/Users/zackkite/source/kata/kata16-business-rules' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.07 22:25:25 INFO  time: initialize in 0.64s[0m
+[0m2021.12.07 22:25:25 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.07 22:25:26 WARN  no build target for: /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/domain/Agent.scala[0m
+[0m2021.12.07 22:25:26 WARN  no build target for: /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/PaymentHandler.scala[0m
+[0m2021.12.07 22:25:26 WARN  no build target for: /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/domain/Product.scala[0m
+[0m2021.12.07 22:25:26 WARN  no build target for: /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/domain/OrderItem.scala[0m
+[0m2021.12.07 22:25:26 WARN  no build target for: /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/domain/Payment.scala[0m
+[0m2021.12.07 22:25:26 WARN  no build target for: /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala[0m
+[0m2021.12.07 22:25:26 WARN  no build target for: /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/domain/Order.scala[0m
+[0m2021.12.07 22:25:26 WARN  no build target for: /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/domain/Customer.scala[0m
+[0m2021.12.07 22:25:26 WARN  no build target for: /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/domain/ProductCategory.scala[0m
+Dec 07, 2021 10:25:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+[0m2021.12.07 22:25:28 INFO  running '/Users/zackkite/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/h6/7lblk9312jq1n2w_ll9sydjr0000gp/T/metals4534609605120003674/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2021.12.07 22:25:29 WARN  no build target for: /Users/zackkite/source/kata/kata16-business-rules/project/metals.sbt[0m
+[0m2021.12.07 22:25:29 WARN  no build target for: /Users/zackkite/source/kata/kata16-business-rules/project/project/metals.sbt[0m
+[0m2021.12.07 22:25:29 INFO  skipping build import with status 'Started'[0m
+[0m2021.12.07 22:25:31 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.12.07 22:25:32 INFO  [info] welcome to sbt 1.5.5 (AdoptOpenJDK Java 1.8.0_292)[0m
+[0m2021.12.07 22:25:37 INFO  [info] loading settings for project kata16-business-rules-build-build from metals.sbt ...[0m
+[0m2021.12.07 22:25:38 INFO  time: code lens generation in 10s[0m
+Dec 07, 2021 10:25:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Dec 07, 2021 10:25:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Dec 07, 2021 10:25:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Dec 07, 2021 10:25:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+Dec 07, 2021 10:25:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+Dec 07, 2021 10:25:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+Dec 07, 2021 10:25:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+[0m2021.12.07 22:25:40 WARN  no build target for: /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/PaymentHandler.scala[0m
+[0m2021.12.07 22:25:41 INFO  time: code lens generation in 1.68s[0m
+[0m2021.12.07 22:25:41 INFO  time: code lens generation in 3.03s[0m
+[0m2021.12.07 22:25:41 INFO  time: code lens generation in 2.95s[0m
+[0m2021.12.07 22:25:41 INFO  time: code lens generation in 2.91s[0m
+[0m2021.12.07 22:25:41 INFO  time: code lens generation in 1.97s[0m
+[0m2021.12.07 22:25:41 INFO  time: code lens generation in 2.74s[0m
+[0m2021.12.07 22:25:41 INFO  time: code lens generation in 2.99s[0m
+[0m2021.12.07 22:25:41 INFO  time: code lens generation in 3.14s[0m
+[0m2021.12.07 22:25:45 INFO  [info] loading project definition from /Users/zackkite/source/kata/kata16-business-rules/project/project[0m
+[0m2021.12.07 22:25:52 INFO  [info] loading settings for project kata16-business-rules-build from metals.sbt ...[0m
+[0m2021.12.07 22:25:52 INFO  [info] loading project definition from /Users/zackkite/source/kata/kata16-business-rules/project[0m
+[0m2021.12.07 22:26:00 INFO  [success] Generated .bloop/kata16-business-rules-build.json[0m
+[0m2021.12.07 22:26:00 WARN  no build target for: /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/PaymentHandler.scala[0m
+[0m2021.12.07 22:26:00 INFO  [success] Total time: 7 s, completed Dec 7, 2021 10:26:00 PM[0m
+[0m2021.12.07 22:26:03 INFO  [info] loading settings for project root from build.sbt ...[0m
+[0m2021.12.07 22:26:03 INFO  [info] set current project to kata16-business-rules (in build file:/Users/zackkite/source/kata/kata16-business-rules/)[0m
+Dec 07, 2021 10:26:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 93
+[0m2021.12.07 22:26:10 INFO  [success] Generated .bloop/root.json[0m
+[0m2021.12.07 22:26:10 INFO  [success] Generated .bloop/root-test.json[0m
+[0m2021.12.07 22:26:10 INFO  [success] Total time: 6 s, completed Dec 7, 2021 10:26:10 PM[0m
+[0m2021.12.07 22:26:10 INFO  time: ran 'sbt bloopInstall' in 41s[0m
+[0m2021.12.07 22:26:10 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/h6/7lblk9312jq1n2w_ll9sydjr0000gp/T/bsp-launcher7822839437075409528/bsp.socket'...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+[0m2021.12.07 22:26:22 WARN  no build target for: /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala[0m
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.11...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading 2 projects from '/Users/zackkite/source/kata/kata16-business-rules/.bloop'...
+[0m[32m[D][0m Loading project from '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root.json'
+[0m[32m[D][0m Loading project from '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root-test.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:3.1.0.
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.2.3/jackson-annotations-2.2.3.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.2.3/jackson-databind-2.2.3.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.9.8/jackson-dataformat-yaml-2.9.8.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.7.0/protobuf-java-3.7.0.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-anchorlink/0.42.12/flexmark-ext-anchorlink-0.42.12.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-autolink/0.42.12/flexmark-ext-autolink-0.42.12.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-emoji/0.42.12/flexmark-ext-emoji-0.42.12.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-gfm-strikethrough/0.42.12/flexmark-ext-gfm-strikethrough-0.42.12.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-gfm-tables/0.42.12/flexmark-ext-gfm-tables-0.42.12.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-gfm-tasklist/0.42.12/flexmark-ext-gfm-tasklist-0.42.12.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-ins/0.42.12/flexmark-ext-ins-0.42.12.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-superscript/0.42.12/flexmark-ext-superscript-0.42.12.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-tables/0.42.12/flexmark-ext-tables-0.42.12.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-wikilink/0.42.12/flexmark-ext-wikilink-0.42.12.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-yaml-front-matter/0.42.12/flexmark-ext-yaml-front-matter-0.42.12.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-formatter/0.42.12/flexmark-formatter-0.42.12.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-html-parser/0.42.12/flexmark-html-parser-0.42.12.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-jira-converter/0.42.12/flexmark-jira-converter-0.42.12.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-util/0.42.12/flexmark-util-0.42.12.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark/0.42.12/flexmark-0.42.12.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/nl/big-o/liqp/0.6.7/liqp-0.6.7.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/antlr/ST4/4.0.7/ST4-4.0.7.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/antlr/antlr-runtime/3.5.1/antlr-runtime-3.5.1.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/antlr/antlr/3.5.1/antlr-3.5.1.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.19.0/jline-reader-3.19.0.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.19.0/jline-terminal-jna-3.19.0.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.19.0/jline-terminal-3.19.0.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jsoup/jsoup/1.13.1/jsoup-1.13.1.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/nibor/autolink/autolink/0.6.0/autolink-0.6.0.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.1.0-scala-1/scala-asm-9.1.0-scala-1.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.1.0/scala3-compiler_3-3.1.0.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.1.0/scala3-interfaces-3.1.0.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.1.0/scala3-library_3-3.1.0.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-tasty-inspector_3/3.1.0/scala3-tasty-inspector_3-3.1.0.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scaladoc_3/3.1.0/scaladoc_3-3.1.0.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.1.0/tasty-core_3-3.1.0.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.3.5/compiler-interface-1.3.5.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.3.0/util-interface-1.3.0.jar
+[0m[32m[D][0m   => /Users/zackkite/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/yaml/snakeyaml/1.23/snakeyaml-1.23.jar
+[0m[32m[D][0m Missing analysis file for project 'root'
+[0m[32m[D][0m Missing analysis file for project 'root-test'
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/h6/7lblk9312jq1n2w_ll9sydjr0000gp/T/bsp-launcher7822839437075409528/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/h6/7lblk9312jq1n2w_ll9sydjr0000gp/T/bsp-launcher7822839437075409528/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.12.07 22:26:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zackkite/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2021.12.07 22:26:24 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/h6/7lblk9312jq1n2w_ll9sydjr0000gp/T/bsp-launcher2664784482511987830/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/h6/7lblk9312jq1n2w_ll9sydjr0000gp/T/bsp-launcher2664784482511987830/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/h6/7lblk9312jq1n2w_ll9sydjr0000gp/T/bsp-launcher2664784482511987830/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.12.07 22:26:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zackkite/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2021.12.07 22:26:28 INFO  time: Connected to build server in 17s[0m
+[0m2021.12.07 22:26:28 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2021.12.07 22:26:28 INFO  time: Imported build in 0.32s[0m
+[0m2021.12.07 22:26:30 INFO  compiling root (10 scala sources)[0m
+[0m2021.12.07 22:26:36 INFO  time: compiled root in 6.43s[0m
+[0m2021.12.07 22:26:39 INFO  time: indexed workspace in 10s[0m
+[0m2021.12.07 22:26:39 INFO  compiling root (10 scala sources)[0m
+[0m2021.12.07 22:26:40 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.12.07 22:26:42 INFO  time: compiled root in 3.27s[0m
+[0m2021.12.07 22:26:49 ERROR code navigation does not work for the file '/Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala' because the SemanticDB file '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root/bloop-bsp-clients-classes/classes-Metals-8uO1MlMMRKyhOZqZTPJqyw==/META-INF/semanticdb/src/main/scala/handlers/AgentCommissionHandler.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.12.07 22:26:49 ERROR code navigation does not work for the file '/Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala' because the SemanticDB file '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root/bloop-bsp-clients-classes/classes-Metals-8uO1MlMMRKyhOZqZTPJqyw==/META-INF/semanticdb/src/main/scala/handlers/AgentCommissionHandler.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.12.07 22:26:50 ERROR code navigation does not work for the file '/Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala' because the SemanticDB file '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root/bloop-bsp-clients-classes/classes-Metals-8uO1MlMMRKyhOZqZTPJqyw==/META-INF/semanticdb/src/main/scala/handlers/AgentCommissionHandler.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.12.07 22:26:50 ERROR code navigation does not work for the file '/Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala' because the SemanticDB file '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root/bloop-bsp-clients-classes/classes-Metals-8uO1MlMMRKyhOZqZTPJqyw==/META-INF/semanticdb/src/main/scala/handlers/AgentCommissionHandler.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.12.07 22:26:51 ERROR code navigation does not work for the file '/Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala' because the SemanticDB file '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root/bloop-bsp-clients-classes/classes-Metals-8uO1MlMMRKyhOZqZTPJqyw==/META-INF/semanticdb/src/main/scala/handlers/AgentCommissionHandler.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.12.07 22:26:51 ERROR code navigation does not work for the file '/Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala' because the SemanticDB file '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root/bloop-bsp-clients-classes/classes-Metals-8uO1MlMMRKyhOZqZTPJqyw==/META-INF/semanticdb/src/main/scala/handlers/AgentCommissionHandler.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.12.07 22:26:53 ERROR code navigation does not work for the file '/Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala' because the SemanticDB file '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root/bloop-bsp-clients-classes/classes-Metals-8uO1MlMMRKyhOZqZTPJqyw==/META-INF/semanticdb/src/main/scala/handlers/AgentCommissionHandler.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.12.07 22:26:54 ERROR code navigation does not work for the file '/Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala' because the SemanticDB file '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root/bloop-bsp-clients-classes/classes-Metals-8uO1MlMMRKyhOZqZTPJqyw==/META-INF/semanticdb/src/main/scala/handlers/AgentCommissionHandler.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.12.07 22:26:56 ERROR code navigation does not work for the file '/Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala' because the SemanticDB file '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root/bloop-bsp-clients-classes/classes-Metals-8uO1MlMMRKyhOZqZTPJqyw==/META-INF/semanticdb/src/main/scala/handlers/AgentCommissionHandler.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.12.07 22:26:57 ERROR code navigation does not work for the file '/Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala' because the SemanticDB file '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root/bloop-bsp-clients-classes/classes-Metals-8uO1MlMMRKyhOZqZTPJqyw==/META-INF/semanticdb/src/main/scala/handlers/AgentCommissionHandler.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.12.07 22:26:57 ERROR code navigation does not work for the file '/Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala' because the SemanticDB file '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root/bloop-bsp-clients-classes/classes-Metals-8uO1MlMMRKyhOZqZTPJqyw==/META-INF/semanticdb/src/main/scala/handlers/AgentCommissionHandler.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+Dec 07, 2021 10:27:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 239
+Dec 07, 2021 10:28:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 262
+Dec 07, 2021 10:28:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 267
+Dec 07, 2021 10:28:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 278
+Dec 07, 2021 10:29:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 294
+Dec 07, 2021 10:29:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 299
+[0m2021.12.07 22:29:18 INFO  compiling root (10 scala sources)[0m
+[0m2021.12.07 22:29:19 INFO  time: compiled root in 1.08s[0m
+Dec 07, 2021 10:29:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 347
+[0m2021.12.07 22:29:34 ERROR code navigation does not work for the file '/Users/zackkite/source/kata/kata16-business-rules/src/main/scala/domain/Payment.scala' because the SemanticDB file '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root/bloop-bsp-clients-classes/classes-Metals-8uO1MlMMRKyhOZqZTPJqyw==/META-INF/semanticdb/src/main/scala/domain/Payment.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.12.07 22:29:34 ERROR code navigation does not work for the file '/Users/zackkite/source/kata/kata16-business-rules/src/main/scala/domain/Payment.scala' because the SemanticDB file '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root/bloop-bsp-clients-classes/classes-Metals-8uO1MlMMRKyhOZqZTPJqyw==/META-INF/semanticdb/src/main/scala/domain/Payment.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+Dec 07, 2021 10:29:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 366
+Dec 07, 2021 10:30:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 383
+[0m2021.12.07 22:30:01 ERROR code navigation does not work for the file '/Users/zackkite/source/kata/kata16-business-rules/src/main/scala/domain/Payment.scala' because the SemanticDB file '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root/bloop-bsp-clients-classes/classes-Metals-8uO1MlMMRKyhOZqZTPJqyw==/META-INF/semanticdb/src/main/scala/domain/Payment.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.12.07 22:30:01 ERROR code navigation does not work for the file '/Users/zackkite/source/kata/kata16-business-rules/src/main/scala/domain/Payment.scala' because the SemanticDB file '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root/bloop-bsp-clients-classes/classes-Metals-8uO1MlMMRKyhOZqZTPJqyw==/META-INF/semanticdb/src/main/scala/domain/Payment.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.12.07 22:30:01 ERROR code navigation does not work for the file '/Users/zackkite/source/kata/kata16-business-rules/src/main/scala/domain/Payment.scala' because the SemanticDB file '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root/bloop-bsp-clients-classes/classes-Metals-8uO1MlMMRKyhOZqZTPJqyw==/META-INF/semanticdb/src/main/scala/domain/Payment.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.12.07 22:30:40 INFO  compiling root (10 scala sources)[0m
+[0m2021.12.07 22:30:42 INFO  time: compiled root in 1.06s[0m
+[0m2021.12.07 22:33:15 INFO  compiling root (10 scala sources)[0m
+[0m2021.12.07 22:33:15 INFO  time: compiled root in 0.6s[0m
+[0m2021.12.07 22:34:05 INFO  compiling root (10 scala sources)[0m
+[0m2021.12.07 22:34:05 INFO  time: compiled root in 0.66s[0m
+Dec 07, 2021 10:34:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 692
+Dec 07, 2021 10:34:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 697
+Dec 07, 2021 10:34:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 702
+Dec 07, 2021 10:34:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 708
+Dec 07, 2021 10:34:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 713
+Dec 07, 2021 10:34:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 718
+Dec 07, 2021 10:35:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 978
+[0m2021.12.07 22:36:53 INFO  compiling root (10 scala sources)[0m
+[0m2021.12.07 22:36:54 INFO  time: compiled root in 1.42s[0m
+[0m2021.12.07 22:36:56 INFO  compiling root (10 scala sources)[0m
+[0m2021.12.07 22:36:57 INFO  time: compiled root in 1.12s[0m
+[0m2021.12.07 22:36:59 INFO  compiling root (10 scala sources)[0m
+[0m2021.12.07 22:36:59 INFO  time: compiled root in 0.93s[0m
+Dec 07, 2021 10:37:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1503
+Dec 07, 2021 10:37:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1508
+Dec 07, 2021 10:37:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1522
+Dec 07, 2021 10:38:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1796
+[0m2021.12.07 22:38:14 INFO  compiling root (10 scala sources)[0m
+[0m2021.12.07 22:38:15 INFO  time: compiled root in 1.02s[0m
+[0m2021.12.07 22:38:47 INFO  compiling root (10 scala sources)[0m
+Dec 07, 2021 10:38:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1994
+[0m2021.12.07 22:38:48 INFO  time: compiled root in 1.4s[0m
+[0m2021.12.07 22:38:48 INFO  compiling root (10 scala sources)[0m
+Dec 07, 2021 10:38:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1999
+[0m2021.12.07 22:38:49 INFO  time: compiled root in 1.03s[0m
+[0m2021.12.07 22:38:49 INFO  compiling root (10 scala sources)[0m
+[0m2021.12.07 22:38:51 INFO  time: compiled root in 1.11s[0m
+Dec 07, 2021 10:38:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2012
+Dec 07, 2021 10:38:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2017
+[0m2021.12.07 22:43:16 INFO  /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala:6:71: stale bloop error: Found:    (ProductCategory.Physical : ProductCategory)
+Required: Boolean
+            .exists(item => item.category == ProductCategory.Books || ProductCategory.Physical)
+                                                                      ^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.12.07 22:43:16 INFO  /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala:8:31: stale bloop error: value generateCommission is not a member of Agent
+        if (isCommissionable) payment.order.agent.generateCommission{payment.order};
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.12.07 22:43:16 INFO  /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala:6:71: stale bloop error: Found:    (ProductCategory.Physical : ProductCategory)
+Required: Boolean
+            .exists(item => item.category == ProductCategory.Books || ProductCategory.Physical)
+                                                                      ^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.12.07 22:43:16 INFO  /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala:8:31: stale bloop error: value generateCommission is not a member of Agent
+        if (isCommissionable) payment.order.agent.generateCommission{payment.order};
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.12.07 22:43:19 INFO  /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala:6:71: stale bloop error: Found:    (ProductCategory.Physical : ProductCategory)
+Required: Boolean
+            .exists(item => item.category == ProductCategory.Books || ProductCategory.Physical)
+                                                                      ^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.12.07 22:43:19 INFO  /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala:8:31: stale bloop error: value generateCommission is not a member of Agent
+        if (isCommissionable) payment.order.agent.generateCommission{payment.order};
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.12.07 22:43:19 INFO  /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala:6:71: stale bloop error: Found:    (ProductCategory.Physical : ProductCategory)
+Required: Boolean
+            .exists(item => item.category == ProductCategory.Books || ProductCategory.Physical)
+                                                                      ^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.12.07 22:43:19 INFO  /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala:8:31: stale bloop error: value generateCommission is not a member of Agent
+        if (isCommissionable) payment.order.agent.generateCommission{payment.order};
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.12.07 22:43:48 ERROR code navigation does not work for the file '/Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala' because the SemanticDB file '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root/bloop-bsp-clients-classes/classes-Metals-8uO1MlMMRKyhOZqZTPJqyw==/META-INF/semanticdb/src/main/scala/handlers/AgentCommissionHandler.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.12.07 22:43:49 INFO  compiling root (10 scala sources)[0m
+[0m2021.12.07 22:43:49 INFO  time: compiled root in 1s[0m
+Dec 07, 2021 10:44:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2244
+[0m2021.12.07 22:44:55 INFO  compiling root (10 scala sources)[0m
+[0m2021.12.07 22:44:55 INFO  time: compiled root in 0.64s[0m
+[0m2021.12.07 22:44:59 INFO  compiling root (10 scala sources)[0m
+[0m2021.12.07 22:44:59 INFO  time: compiled root in 0.29s[0m
+[0m2021.12.07 22:45:03 ERROR code navigation does not work for the file '/Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala' because the SemanticDB file '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root/bloop-bsp-clients-classes/classes-Metals-8uO1MlMMRKyhOZqZTPJqyw==/META-INF/semanticdb/src/main/scala/handlers/AgentCommissionHandler.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.12.07 22:45:03 ERROR code navigation does not work for the file '/Users/zackkite/source/kata/kata16-business-rules/src/main/scala/handlers/AgentCommissionHandler.scala' because the SemanticDB file '/Users/zackkite/source/kata/kata16-business-rules/.bloop/root/bloop-bsp-clients-classes/classes-Metals-8uO1MlMMRKyhOZqZTPJqyw==/META-INF/semanticdb/src/main/scala/handlers/AgentCommissionHandler.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+Dec 07, 2021 10:45:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2403
+[0m2021.12.07 22:45:45 INFO  compiling root (10 scala sources)[0m
+[0m2021.12.07 22:45:46 INFO  time: compiled root in 1.77s[0m
+[0m2021.12.07 22:45:56 INFO  /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/domain/Agent.scala:1:7: stale bloop error: class Agent needs to be abstract, since def generateCommission(order: Order): Unit in class Agent is not defined 
+class Agent {
+      ^[0m
+[0m2021.12.07 22:45:56 INFO  /Users/zackkite/source/kata/kata16-business-rules/src/main/scala/domain/Agent.scala:1:7: stale bloop error: class Agent needs to be abstract, since def generateCommission(order: Order): Unit in class Agent is not defined 
+class Agent {
+      ^[0m
+[0m2021.12.07 22:46:19 INFO  compiling root (10 scala sources)[0m
+[0m2021.12.07 22:46:23 INFO  time: compiled root in 3.6s[0m
+Dec 07, 2021 10:46:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2708
+Dec 07, 2021 10:46:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2716
+Dec 07, 2021 10:47:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2730
+Dec 07, 2021 10:47:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2735
+Dec 07, 2021 10:47:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2740
+Dec 07, 2021 10:47:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2745
+Dec 07, 2021 10:47:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2752
+Dec 08, 2021 2:21:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2764
+Dec 08, 2021 7:47:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2770
+Dec 08, 2021 7:47:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2771
+Dec 08, 2021 7:48:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2777
+Dec 08, 2021 7:48:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2783
+Dec 08, 2021 7:54:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2790
+Dec 08, 2021 7:54:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2796
+[0m2021.12.08 19:54:47 INFO  compiling root-test (1 scala source)[0m
+[0m2021.12.08 19:54:50 INFO  time: compiled root-test in 2.73s[0m
+[0m2021.12.08 20:05:14 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:05:14 INFO  time: compiled root in 0.83s[0m
+Dec 08, 2021 8:06:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2912
+Dec 08, 2021 8:06:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2918
+Dec 08, 2021 8:06:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2978
+[0m2021.12.08 20:06:53 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:06:53 INFO  time: compiled root in 0.37s[0m
+[0m2021.12.08 20:07:18 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 20:07:18 INFO  time: compiled root in 0.33s[0m
+[0m2021.12.08 20:07:21 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 20:07:21 INFO  time: compiled root in 82ms[0m
+Dec 08, 2021 8:07:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3068
+[0m2021.12.08 20:07:42 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 20:07:42 INFO  time: compiled root in 0.22s[0m
+[0m2021.12.08 20:08:03 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 20:08:03 INFO  time: compiled root in 0.33s[0m
+[0m2021.12.08 20:08:04 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 20:08:04 INFO  time: compiled root in 0.12s[0m
+Dec 08, 2021 8:08:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3122
+[0m2021.12.08 20:08:11 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 20:08:11 INFO  time: compiled root in 0.12s[0m
+Dec 08, 2021 8:08:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3137
+[0m2021.12.08 20:08:13 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 20:08:13 INFO  time: compiled root in 0.3s[0m
+Dec 08, 2021 8:08:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3151
+[0m2021.12.08 20:08:36 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 20:08:36 INFO  time: compiled root in 0.15s[0m
+[0m2021.12.08 20:08:40 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 20:08:40 INFO  time: compiled root in 0.11s[0m
+[0m2021.12.08 20:08:44 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 20:08:44 INFO  time: compiled root in 0.4s[0m
+Dec 08, 2021 8:08:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3312
+[0m2021.12.08 20:09:01 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 20:09:01 INFO  time: compiled root in 0.19s[0m
+Dec 08, 2021 8:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3333
+Dec 08, 2021 8:09:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3339
+Dec 08, 2021 8:09:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3346
+Dec 08, 2021 8:09:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3362
+[0m2021.12.08 20:09:31 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.08 20:09:31 INFO  time: compiled root in 0.48s[0m
+Dec 08, 2021 8:09:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3421
+[0m2021.12.08 20:09:43 INFO  compiling root (4 scala sources)[0m
+[0m2021.12.08 20:09:43 INFO  time: compiled root in 0.15s[0m
+Dec 08, 2021 8:09:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3447
+[0m2021.12.08 20:09:51 INFO  compiling root (5 scala sources)[0m
+[0m2021.12.08 20:09:51 INFO  time: compiled root in 0.28s[0m
+Dec 08, 2021 8:09:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3485
+Dec 08, 2021 8:09:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3492
+Dec 08, 2021 8:09:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3501
+[0m2021.12.08 20:10:04 INFO  compiling root (6 scala sources)[0m
+[0m2021.12.08 20:10:04 INFO  time: compiled root in 0.41s[0m
+Dec 08, 2021 8:10:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3537
+Dec 08, 2021 8:10:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3542
+[0m2021.12.08 20:10:15 INFO  compiling root (12 scala sources)[0m
+[0m2021.12.08 20:10:15 INFO  time: compiled root in 0.67s[0m
+Dec 08, 2021 8:10:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3568
+[0m2021.12.08 20:10:21 INFO  compiling root (12 scala sources)[0m
+[0m2021.12.08 20:10:21 INFO  time: compiled root in 0.38s[0m
+Dec 08, 2021 8:10:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3598
+[0m2021.12.08 20:10:29 INFO  compiling root (12 scala sources)[0m
+[0m2021.12.08 20:10:29 INFO  time: compiled root in 0.44s[0m
+[0m2021.12.08 20:10:46 INFO  compiling root (12 scala sources)[0m
+[0m2021.12.08 20:10:46 INFO  time: compiled root in 0.7s[0m
+[0m2021.12.08 20:10:46 INFO  compiling root (12 scala sources)[0m
+[0m2021.12.08 20:10:47 INFO  time: compiled root in 0.29s[0m
+Dec 08, 2021 8:10:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3732
+Dec 08, 2021 8:10:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3738
+[0m2021.12.08 20:11:05 INFO  compiling root (12 scala sources)[0m
+[0m2021.12.08 20:11:05 INFO  time: compiled root in 0.97s[0m
+[0m2021.12.08 20:11:18 INFO  compiling root (12 scala sources)[0m
+[0m2021.12.08 20:11:18 INFO  time: compiled root in 0.5s[0m
+[0m2021.12.08 20:11:23 INFO  compiling root (12 scala sources)[0m
+[0m2021.12.08 20:11:23 INFO  time: compiled root in 0.57s[0m
+Dec 08, 2021 8:11:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3870
+[0m2021.12.08 20:11:36 INFO  compiling root (12 scala sources)[0m
+[0m2021.12.08 20:11:36 INFO  time: compiled root in 0.55s[0m
+[0m2021.12.08 20:11:45 INFO  compiling root (12 scala sources)[0m
+[0m2021.12.08 20:11:47 INFO  time: compiled root in 1.68s[0m
+Dec 08, 2021 8:11:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3952
+[0m2021.12.08 20:18:18 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:18:18 INFO  time: compiled root in 0.48s[0m
+[0m2021.12.08 20:18:31 INFO  compiling root (1 scala source)[0m
+Dec 08, 2021 8:18:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3974
+[0m2021.12.08 20:18:31 INFO  time: compiled root in 0.25s[0m
+[0m2021.12.08 20:18:47 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:18:47 INFO  time: compiled root in 0.45s[0m
+[0m2021.12.08 20:19:33 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:19:33 INFO  time: compiled root in 0.26s[0m
+[0m2021.12.08 20:19:53 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:19:53 INFO  time: compiled root in 0.52s[0m
+[0m2021.12.08 20:20:16 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:20:16 INFO  time: compiled root in 0.5s[0m
+Dec 08, 2021 8:23:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4009
+[0m2021.12.08 20:23:09 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:23:09 INFO  time: compiled root in 0.52s[0m
+Dec 08, 2021 8:25:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4017
+[0m2021.12.08 20:25:15 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:25:15 INFO  time: compiled root in 0.5s[0m
+Dec 08, 2021 8:26:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4024
+[0m2021.12.08 20:29:39 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:29:39 INFO  time: compiled root in 0.76s[0m
+[0m2021.12.08 20:34:16 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:34:16 INFO  time: compiled root in 0.78s[0m
+[0m2021.12.08 20:34:16 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:34:18 INFO  time: compiled root in 0.87s[0m
+Dec 08, 2021 8:34:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5039
+[0m2021.12.08 20:34:58 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 20:35:00 INFO  time: compiled root in 1.72s[0m
+Dec 08, 2021 8:35:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5211
+Dec 08, 2021 8:35:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5215
+Dec 08, 2021 8:35:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5220
+Dec 08, 2021 8:42:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6094
+Dec 08, 2021 8:42:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6101
+Dec 08, 2021 8:42:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6105
+Dec 08, 2021 8:42:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6115
+Dec 08, 2021 8:42:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6122
+Dec 08, 2021 8:48:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6553
+[0m2021.12.08 20:52:44 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:52:44 INFO  time: compiled root in 0.63s[0m
+[0m2021.12.08 20:52:57 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:52:57 INFO  time: compiled root in 0.15s[0m
+[0m2021.12.08 20:53:01 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:53:01 INFO  time: compiled root in 0.21s[0m
+[0m2021.12.08 20:53:52 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:53:52 INFO  time: compiled root in 0.24s[0m
+[0m2021.12.08 20:53:57 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:53:57 INFO  time: compiled root in 0.42s[0m
+[0m2021.12.08 20:54:04 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:54:04 INFO  time: compiled root in 0.2s[0m
+Dec 08, 2021 8:54:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7481
+[0m2021.12.08 20:54:50 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:54:51 INFO  time: compiled root in 1.01s[0m
+[0m2021.12.08 20:54:59 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 20:54:59 INFO  time: compiled root in 0.77s[0m
+Dec 08, 2021 8:55:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7729
+[0m2021.12.08 20:55:44 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 20:55:44 INFO  time: compiled root in 0.78s[0m
+[0m2021.12.08 20:55:50 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 20:55:50 INFO  time: compiled root in 0.93s[0m
+[0m2021.12.08 20:56:00 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 20:56:00 INFO  time: compiled root in 0.56s[0m
+Dec 08, 2021 8:58:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7840
+Dec 08, 2021 8:58:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7854
+[0m2021.12.08 20:59:09 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 20:59:09 INFO  time: compiled root in 0.62s[0m
+Dec 08, 2021 8:59:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7954
+Dec 08, 2021 8:59:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7964
+Dec 08, 2021 8:59:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7970
+Dec 08, 2021 8:59:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7977
+[0m2021.12.08 20:59:27 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 20:59:27 INFO  time: compiled root in 0.47s[0m
+Dec 08, 2021 8:59:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7996
+[0m2021.12.08 20:59:38 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.08 20:59:38 INFO  time: compiled root in 0.58s[0m
+[0m2021.12.08 20:59:39 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.08 20:59:39 INFO  time: compiled root in 0.61s[0m
+Dec 08, 2021 8:59:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8067
+Dec 08, 2021 8:59:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8073
+[0m2021.12.08 20:59:54 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.08 20:59:54 INFO  time: compiled root in 0.35s[0m
+[0m2021.12.08 21:00:07 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.08 21:00:07 INFO  time: compiled root in 0.32s[0m
+[0m2021.12.08 21:00:10 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.08 21:00:10 INFO  time: compiled root in 0.1s[0m
+[0m2021.12.08 21:00:14 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.08 21:00:14 INFO  time: compiled root in 0.16s[0m
+[0m2021.12.08 21:00:22 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.08 21:00:22 INFO  time: compiled root in 0.64s[0m
+[0m2021.12.08 21:00:24 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.08 21:00:24 INFO  time: compiled root in 0.29s[0m
+Dec 08, 2021 9:00:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8247
+Dec 08, 2021 9:01:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8409
+[0m2021.12.08 21:01:31 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.08 21:01:31 INFO  time: compiled root in 0.26s[0m
+[0m2021.12.08 21:01:48 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.08 21:01:48 INFO  time: compiled root in 0.38s[0m
+[0m2021.12.08 21:01:50 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.08 21:01:50 INFO  time: compiled root in 0.15s[0m
+Dec 08, 2021 9:01:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8573
+[0m2021.12.08 21:01:58 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.08 21:01:58 INFO  time: compiled root in 0.21s[0m
+[0m2021.12.08 21:02:16 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.08 21:02:16 INFO  time: compiled root in 0.76s[0m
+[0m2021.12.08 21:02:50 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:02:50 INFO  time: compiled root in 0.17s[0m
+[0m2021.12.08 21:02:50 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:02:50 INFO  time: compiled root in 0.26s[0m
+[0m2021.12.08 21:02:56 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:02:56 INFO  time: compiled root in 0.44s[0m
+[0m2021.12.08 21:03:00 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:03:00 INFO  time: compiled root in 0.62s[0m
+[0m2021.12.08 21:03:04 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:03:04 INFO  time: compiled root in 0.22s[0m
+Dec 08, 2021 9:03:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8790
+[0m2021.12.08 21:03:14 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:03:14 INFO  time: compiled root in 0.14s[0m
+[0m2021.12.08 21:03:14 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:03:14 INFO  time: compiled root in 0.37s[0m
+[0m2021.12.08 21:03:17 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:03:17 INFO  time: compiled root in 0.29s[0m
+Dec 08, 2021 9:03:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8840
+Dec 08, 2021 9:03:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8847
+Dec 08, 2021 9:03:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8852
+Dec 08, 2021 9:03:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8865
+Dec 08, 2021 9:05:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9509
+Dec 08, 2021 9:05:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9514
+Dec 08, 2021 9:05:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9570
+[0m2021.12.08 21:06:39 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:06:39 INFO  time: compiled root in 0.26s[0m
+Dec 08, 2021 9:06:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9864
+[0m2021.12.08 21:06:59 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:06:59 INFO  time: compiled root in 0.35s[0m
+Dec 08, 2021 9:07:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9961
+Dec 08, 2021 9:09:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10347
+Dec 08, 2021 9:11:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10777
+Dec 08, 2021 9:11:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10782
+Dec 08, 2021 9:11:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10787
+Dec 08, 2021 9:11:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10792
+Dec 08, 2021 9:11:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10815
+Dec 08, 2021 9:11:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10820
+Dec 08, 2021 9:12:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10837
+Dec 08, 2021 9:12:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10841
+Dec 08, 2021 9:12:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10847
+Dec 08, 2021 9:12:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10853
+Dec 08, 2021 9:12:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10859
+Dec 08, 2021 9:12:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10864
+Dec 08, 2021 9:12:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10871
+Dec 08, 2021 9:12:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10875
+Dec 08, 2021 9:12:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10880
+Dec 08, 2021 9:12:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10884
+Dec 08, 2021 9:12:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10900
+Dec 08, 2021 9:13:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11012
+[0m2021.12.08 21:13:53 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:13:53 INFO  time: compiled root in 0.51s[0m
+[0m2021.12.08 21:14:10 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:14:10 INFO  time: compiled root in 0.71s[0m
+[0m2021.12.08 21:14:27 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:14:27 INFO  time: compiled root in 0.49s[0m
+[0m2021.12.08 21:14:42 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:14:43 INFO  time: compiled root in 1.18s[0m
+Dec 08, 2021 9:14:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11247
+Dec 08, 2021 9:14:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11253
+Dec 08, 2021 9:15:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11259
+Dec 08, 2021 9:15:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11265
+Dec 08, 2021 9:15:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11279
+[0m2021.12.08 21:16:42 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 21:16:42 INFO  time: compiled root in 0.69s[0m
+[0m2021.12.08 21:16:53 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 21:16:53 INFO  time: compiled root in 0.59s[0m
+[0m2021.12.08 21:16:57 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 21:16:57 INFO  time: compiled root in 0.71s[0m
+Dec 08, 2021 9:17:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11470
+Dec 08, 2021 9:17:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11575
+[0m2021.12.08 21:18:17 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 21:18:17 INFO  time: compiled root in 0.6s[0m
+[0m2021.12.08 21:19:11 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 21:19:11 INFO  time: compiled root in 0.77s[0m
+[0m2021.12.08 21:19:28 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 21:19:28 INFO  time: compiled root in 0.34s[0m
+[0m2021.12.08 21:19:34 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 21:19:34 INFO  time: compiled root in 0.63s[0m
+Dec 08, 2021 9:19:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12180
+[0m2021.12.08 21:20:15 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.08 21:20:15 INFO  time: compiled root in 0.33s[0m
+Dec 08, 2021 9:20:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12394
+[0m2021.12.08 21:20:29 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.08 21:20:29 INFO  time: compiled root in 0.45s[0m
+Dec 08, 2021 9:20:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12420
+[0m2021.12.08 21:20:45 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.08 21:20:45 INFO  time: compiled root in 0.6s[0m
+Dec 08, 2021 9:21:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12559
+[0m2021.12.08 21:21:19 INFO  compiling root (4 scala sources)[0m
+[0m2021.12.08 21:21:19 INFO  time: compiled root in 0.32s[0m
+[0m2021.12.08 21:21:30 INFO  compiling root (4 scala sources)[0m
+[0m2021.12.08 21:21:30 INFO  time: compiled root in 0.49s[0m
+[0m2021.12.08 21:21:57 INFO  compiling root (4 scala sources)[0m
+[0m2021.12.08 21:21:57 INFO  time: compiled root in 0.18s[0m
+[0m2021.12.08 21:22:05 INFO  compiling root (4 scala sources)[0m
+[0m2021.12.08 21:22:05 INFO  time: compiled root in 0.62s[0m
+[0m2021.12.08 21:22:07 INFO  compiling root (4 scala sources)[0m
+[0m2021.12.08 21:22:07 INFO  time: compiled root in 0.22s[0m
+Dec 08, 2021 9:22:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12826
+[0m2021.12.08 21:22:35 INFO  compiling root (4 scala sources)[0m
+[0m2021.12.08 21:22:35 INFO  time: compiled root in 0.87s[0m
+[0m2021.12.08 21:22:39 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:22:39 INFO  time: compiled root in 0.34s[0m
+[0m2021.12.08 21:22:40 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:22:40 INFO  time: compiled root in 0.29s[0m
+Dec 08, 2021 9:22:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12949
+Dec 08, 2021 9:23:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12993
+Dec 08, 2021 9:23:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13065
+[0m2021.12.08 21:23:33 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:23:34 INFO  time: compiled root in 1.01s[0m
+Dec 08, 2021 9:23:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13099
+Dec 08, 2021 9:23:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13106
+Dec 08, 2021 9:23:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13112
+[0m2021.12.08 21:23:53 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 21:23:53 INFO  time: compiled root in 0.64s[0m
+[0m2021.12.08 21:23:57 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 21:23:57 INFO  time: compiled root in 0.42s[0m
+[0m2021.12.08 21:24:04 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 21:24:04 INFO  time: compiled root in 0.57s[0m
+Dec 08, 2021 9:24:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13215
+[0m2021.12.08 21:24:23 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 21:24:23 INFO  time: compiled root in 0.41s[0m
+Dec 08, 2021 9:24:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13247
+[0m2021.12.08 21:24:34 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 21:24:34 INFO  time: compiled root in 0.71s[0m
+Dec 08, 2021 9:24:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13256
+Dec 08, 2021 9:25:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13264
+[0m2021.12.08 21:25:43 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.08 21:25:43 INFO  time: compiled root in 0.6s[0m
+Dec 08, 2021 9:25:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13300
+[0m2021.12.08 21:25:56 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 21:25:56 INFO  time: compiled root in 0.58s[0m
+[0m2021.12.08 21:25:56 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:25:57 INFO  time: compiled root in 0.58s[0m
+Dec 08, 2021 9:26:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13364
+Dec 08, 2021 9:26:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13382
+[0m2021.12.08 21:26:46 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:26:46 INFO  time: compiled root in 0.68s[0m
+[0m2021.12.08 21:51:06 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:51:06 INFO  time: compiled root in 0.88s[0m
+[0m2021.12.08 21:51:20 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:51:20 INFO  time: compiled root in 0.88s[0m
+[0m2021.12.08 21:51:22 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:51:22 INFO  time: compiled root in 0.34s[0m
+[0m2021.12.08 21:51:24 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:51:24 INFO  time: compiled root in 0.37s[0m
+Dec 08, 2021 9:51:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13704
+[0m2021.12.08 21:52:01 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.08 21:52:01 INFO  time: compiled root in 0.99s[0m
+Dec 08, 2021 9:52:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13747
+[0m2021.12.08 21:52:37 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:52:37 INFO  time: compiled root in 0.86s[0m
+[0m2021.12.08 21:58:08 INFO  compiling root (1 scala source)[0m
+[0m2021.12.08 21:58:08 INFO  time: compiled root in 0.81s[0m
+Dec 08, 2021 10:00:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13838
+Dec 08, 2021 10:00:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13844
+Dec 08, 2021 10:00:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13851
+Dec 08, 2021 10:00:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13858
+Dec 08, 2021 10:00:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13863
+Dec 08, 2021 10:00:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13868
+Dec 08, 2021 10:00:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13873
+Dec 08, 2021 10:00:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13880
+Dec 08, 2021 10:00:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13890
+Dec 08, 2021 10:00:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13900
+Dec 08, 2021 10:00:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13912
+Dec 08, 2021 10:00:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13918
+Dec 08, 2021 10:00:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13922
+Dec 08, 2021 10:00:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13934
+Dec 08, 2021 10:00:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13939
+Dec 08, 2021 10:01:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13944
+Dec 08, 2021 10:01:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13949
+Dec 08, 2021 10:01:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13954
+Dec 08, 2021 10:01:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13961
+Dec 08, 2021 10:01:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13966
+Dec 08, 2021 10:01:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13971
+Dec 08, 2021 10:01:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13976
+Dec 08, 2021 10:01:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13980
+Dec 08, 2021 10:01:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13986
